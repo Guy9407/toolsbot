@@ -866,4 +866,4 @@ async def on_command_error(ctx, error): # error messages
 
 
 
-client.run("MTE3MTgxNTA2NzA0NjY1NDA2Ng.GSxLar.GtPMK9pgXaUFzsSb6xuZWFYEfO6rpOW7rOuh9c")
+client.run(TOKEN)
